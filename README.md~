@@ -1,0 +1,17 @@
+RetrofitAndroid is a repackaging of the Square's Retrofit Maven project into a reusable Android library project.
+
+For future reference please refer to the original Github repository
+
+https://github.com/square/retrofit
+
+Usage guides are available in the original Retrofit repository website.
+
+If there are notable differences from the original project, I'll do some remarks accordingly or branch out from this project.
+
+I've done a test Android project based on the library project itself.
+
+
+
+
+
+

@@ -1,0 +1,22 @@
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+retrofit-android/bin/
+retrofit-android/gen/
+retrofit-android-test/bin/
+retrofit-android-test/gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Eclipse project files
+.classpath
+.project
