@@ -9,8 +9,15 @@
 *.class
 
 # generated files
+<<<<<<< HEAD
+retrofit-android/bin/
+retrofit-android/gen/
+retrofit-android-test/bin/
+retrofit-android-test/gen/
+=======
 bin/
 gen/
+>>>>>>> 34e01d5bcecbd46b50d87229dffec9797b9cd14b
 
 # Local configuration file (sdk path, etc)
 local.properties
